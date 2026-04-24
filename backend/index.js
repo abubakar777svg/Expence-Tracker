@@ -24,5 +24,4 @@ if (process.env.NODE_ENV !== "production") {
   });
 }
 
-// ✅ VERCEL
 export default app;
